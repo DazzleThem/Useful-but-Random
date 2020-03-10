@@ -1,5 +1,6 @@
 HW5 contains two sections that solves different problems applying to 1D, convective transfer heat exchange across a plate.
 
+
 Section 1 solves for theta*, the ratio of temperature differences between any T and T initial. 
   INPUTS 7
     Fo = Fourier number
